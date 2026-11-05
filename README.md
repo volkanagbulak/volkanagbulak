@@ -6,7 +6,7 @@
 ### <div align="center">I'm Volkan, a full-time frontend developer 👨‍💻 working since 2007 🚀</div>  
   
 
-- 🔭 I’m currently working on [Gittigidiyor](https://www.gittigidiyor.com/)  
+- 🔭 I’m currently working on
   
 
 - 🌱 I’m currently learning NodeJS and Jest  
